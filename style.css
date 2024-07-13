@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.full-container{
+    min-width: 1199;
+    max-width: 1199;
+}
+
+ h2{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+
+table{
+    width: 90%;
+    height: 500px;
+    border: 3px solid #ABB381;
+    margin: 30px auto;
+    border-collapse: collapse;
+    border-color: #ABB381;
+}
+
+td{
+    border: 2px solid #ABB381; 
+    text-align: center;   
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.cg{
+    background-color: #2C870E;
+    color: white;
+}
+
+.grey{
+    background-color: #E0E0E0;
+}
+
+.width{
+    width: 300px;
+    text-align: left;
+    padding-left: 9px;
+} 
